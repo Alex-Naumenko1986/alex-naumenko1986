@@ -5,7 +5,7 @@
 
 <h2 align="center">Мой стек</h2>
 <div align="center">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JAVA-white?style=for-the-badge" alt = "Java"/> </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JAVA-f3f6f4?style=for-the-badge" alt = "Java"/> </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SPRING_FRAMEWORK-green?style=for-the-badge" alt = "Spring"/> </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/POSTGRESQL-blue?style=for-the-badge" alt = "PostgreSQL"/> </a>
     <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HIBERNATE-999999?style=for-the-badge" alt = "Hibernate"/> </a>
@@ -14,7 +14,7 @@
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/POSTMAN-orange?style=for-the-badge" alt = "Postman"/> </a>
     <a href="https://junit.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JUNIT 5-6aa84f?style=for-the-badge" alt = "JUnit 5"/> </a>
     <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MOCKITO-b6d7a8?style=for-the-badge" alt = "Mockito"/> </a>
-    <a href="https://projectlombok.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LOMBOK-white?style=for-the-badge" alt = "Lombok"/> </a>
+    <a href="https://projectlombok.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LOMBOK-f3f6f4?style=for-the-badge" alt = "Lombok"/> </a>
     <a href="https://mapstruct.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MAPSTRUCT-orange?style=for-the-badge" alt = "Mapstruct"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-f6b26b?style=for-the-badge" alt = "Git"/> </a>
 </div>
