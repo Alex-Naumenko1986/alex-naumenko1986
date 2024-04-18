@@ -5,7 +5,7 @@
 
 <h2 align="center">Мой стек</h2>
 <div align="center">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src=" https://img.shields.io/badge/JAVA-white?style=for-the-badge" alt = "Java"/> </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JAVA-white?style=for-the-badge" alt = "Java"/> </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src=" https://img.shields.io/badge/SPRING_FRAMEWORK-green?style=for-the-badge" alt = "Spring"/> </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src=" https://img.shields.io/badge/POSTGRESQL-blue?style=for-the-badge" alt = "PostgreSQL"/> </a>
     <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src=" https://img.shields.io/badge/HIBERNATE-999999?style=for-the-badge" alt = "Hibernate"/> </a>
