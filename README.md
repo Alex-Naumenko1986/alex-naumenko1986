@@ -26,5 +26,5 @@
     <a href="https://github.com/Alex-Naumenko1986/java-filmorate-group/tree/develop" target="_project" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-Naumenko1986&repo=java-filmorate-group&theme=shadow_blue" alt="project"/> </a>
     <a href="https://github.com/Alex-Naumenko1986/java-kanban" target="_project" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-Naumenko1986&repo=java-kanban&theme=shadow_blue" alt="project"/> </a>
     <a href="https://github.com/Alex-Naumenko1986/java-sprint2-hw" target="_project" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-Naumenko1986&repo=java-sprint2-hw&theme=shadow_blue" alt="project"/> </a>
-    <a href="https://github.com/Alex-Naumenko1986/java-sprint1-hw" target="_project" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-Naumenko1986&repo=java-sprint1-hw&theme=shadow_blue" alt="project"/> </a>
+    <a href="https://github.com/Alex-Naumenko1986/step-tracker" target="_project" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-Naumenko1986&repo=step-tracker&theme=shadow_blue" alt="project"/> </a>
 </div>
