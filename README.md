@@ -28,3 +28,7 @@
     <a href="https://github.com/Alex-Naumenko1986/accounting-app" target="_project" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-Naumenko1986&repo=accounting-app&theme=shadow_blue" alt="project"/> </a>
      <a href="https://github.com/Alex-Naumenko1986/step-tracker" target="_project" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-Naumenko1986&repo=step-tracker&theme=shadow_blue" alt="project"/> </a>
 </div>
+<div align="left">
+    [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Goodwin-na)](https://github.com/KnlnKS/leetcode-stats)
+</div>
+
