@@ -10,6 +10,7 @@
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/POSTGRESQL-blue?style=for-the-badge" alt = "PostgreSQL"/> </a>
     <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HIBERNATE-999999?style=for-the-badge" alt = "Hibernate"/> </a>
     <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MAVEN-red?style=for-the-badge" alt = "Maven"/> </a>
+    <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/RABBITMQ-orange?style=for-the-badge" alt = "RabbitMq"/> </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/DOCKER-1f82ab?style=for-the-badge" alt = "Docker"/> </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/POSTMAN-orange?style=for-the-badge" alt = "Postman"/> </a>
     <a href="https://junit.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JUNIT 5-6aa84f?style=for-the-badge" alt = "JUnit 5"/> </a>
