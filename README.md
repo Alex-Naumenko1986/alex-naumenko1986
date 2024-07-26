@@ -22,6 +22,7 @@
 
 <h2 align="center">Мои проекты</h2>
 <div align="center">
+        <a href="https://github.com/Alex-Naumenko1986/expense-app" target="_project" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-Naumenko1986&repo=expense-app&theme=shadow_blue" alt="project"/> </a>
     <a href="https://github.com/Alex-Naumenko1986/java-explore-with-me" target="_project" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-Naumenko1986&repo=java-explore-with-me&theme=shadow_blue" alt="project"/> </a>
     <a href="https://github.com/Alex-Naumenko1986/java-shareit" target="_project" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-Naumenko1986&repo=java-shareit&theme=shadow_blue" alt="project"/> </a>
     <a href="https://github.com/Alex-Naumenko1986/java-filmorate-group/tree/develop" target="_project" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-Naumenko1986&repo=java-filmorate-group&theme=shadow_blue" alt="project"/> </a>
